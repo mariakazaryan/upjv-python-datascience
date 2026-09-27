@@ -1,0 +1,3 @@
+contenu : presentation des outils
+# Liens utiles du cours 
+-colab, pandas, matplotlib 
